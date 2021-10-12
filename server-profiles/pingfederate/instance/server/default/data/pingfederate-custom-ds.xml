@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cus:custom-sources xmlns:cus="http://pingidentity.com/2006/03/custom-ds">
+    <cus:custom-source id="Other-E500D824C424C52AB8A0B8089432FC70FDDC9E63" description="RonBee" driverClassName="com.pingidentity.pf.datastore.other.RestDataSourceDriver" maskAttributeValues="false"/>
+</cus:custom-sources>

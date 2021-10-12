@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pingOneConnectionsConfig>
+    <connections>
+        <active>true</active>
+        <creationDate>2021-10-12T19:24:54.021Z</creationDate>
+        <credentialId>330b9671-aee1-4e9e-9571-601e3def68ad</credentialId>
+        <encryptedCredential>eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiRW1JY1UxOVdueSIsInZlcnNpb24iOiIxMC4zLjIuMCJ9..JfNH0thB2tEJoYNHTzdMLw.PIEiLQmXeZfUy61_e-47IXpoH7BmilT79UsCTwngF557u9ppwV-LNzhXOmchCK5kFST2EfMOYjrw0BEnaOZ1g5t8p6xJdSLPPX6PGPpU33gL32dUq2wjw40cmNYiEBfYHo2asFlWZZuTF5SBnNe_ygrRtc1vei53FvNoaU68HWBA6Dz7Nn1W0obVtHiUcSNCvD8FuEx00ySSbL5iZED-qSs3ynmLLGo63VTLksC6ZgzTwIrt-V-FaM_IJcyn1fKs4ODjb9Tj7TWV-jJLie1n2CuIfXW4bwadINam7JvXSBZRkryYQS42x5YVEgpBa-NedzOt_wccynt0b7wf1LvAiM6cJrZjfasuqEsINDFBQvPxRrY-mW_4xUU1TfsRI4dctqXhCEv1XYTmEl_sotjeZ4RiMUIsdIjO2OkhdpKrAU5PPsRnZd7NkG_gEeMXT3U8h_t682H3-IX1Y29CjofE-1-eXH_w0a9qkFbs6JEJ2e9Y_E5ZUSbuiR37UGzBG6jPyU9aDLoryGbDlcaOyN-QdpOaUWCvz2mDDlrYqMYpZFnRYyNJFAgWSYbStBOg74Hmn_DxOb0t9OG86xPqqgpR8RQwmHRHsgXuMYjJLVeZmb_hzwxin-Q-zXaxWBAIeYmo7Q1YOCrwIkxc1i6mIuHxuhVK8cH0jIZHMhfYQTFgrgGJmUYwsBDVg0AfYlVU63JY3eEulBvzVC4lLusGCmixjNO7OieVYeKJWHI9B9aeSnedfVX7mOvNe40H1oAn6Nl4OAwrnaqHnZgxKfGulUvMry53DbP6E_jkhG8pK6yC-qKk46ucCryLB_T06CZMOPLtSN3iofoFEGEQ8wFaIAI8qMDPKlWmXRCxUE5HUdlXE1oeTfIT13J-hwOQhGRGu656x2_EEj8MME_Dj3r5luFnplGWixJqhURJBOhvrqBfVrnRF1KwU1piw-nPEygKGuU9XCjX5f4N-8_nnT7lVar6rPzdfn-gx2HlaTNnJJXtnlBTKvsO12yKodsKqQkrHfa_AsIiK5UoEfFNHMdmZnqewuo68iIV42xPjbwch5px9KKKDlrTiACXVnr-xaDgL78ZDVLbwbnBaT-YIO6rwoHtJUOdmLN1T8f55ttPtTfvtPROqYmwmkfrlmis8eV_GXAudT7AoDxDPrzkt5VAB685vUU7sTG7e8lzmi2pHWf9OrsCeWwGUdXaEThNqHrzgcti5Gij56IMviTX-6MdHw_L7DY7YVu0olurMiem3fw9mgAHQDUegWfm9TvKUFZNSJvgodv4Pjw_CQ1FB2q1udOD86miJbx4RAD5QWPmVBV9xqBTGjTyCyOKh4kIP2tf3xfTZQMBYUZfn3qOI7GsqktCdBdBATFEvA9FZklhfPliKCE-w3SE5iYpieooql1JhI6f_sgbpSnGjwWM87QNftSWwt4sIIfKHVuPFuM2q9BtlhiK9gMfiG9YGBk96og2nBoglEoBxGBDKivMdsFaJLxJ-rVLLhJ9DlmJyF2XmMi2J4Me9CW8jnQUZiQa6myhkspU0VFZLdoyX9H209Iz6J1HnYMiZGRLtr-vhVAQ-5lmIFiX0DWpr2G72jgulydMeTY0DuZhe_AQtigeAArz09I3obRPPZBs7EIYpMlh9KNGxkaE1jtv0sro6LeCwigUiVUtDJBYFzd1DQiRGZVSBU618mhSRKYtMtGe1EM9KH-UDFA.2vF_8degQ9631UGVd5fB1Q</encryptedCredential>
+        <environmentId>f182afe9-e9ec-4f72-8d15-b9b8eea442db</environmentId>
+        <id>6NLg3HdguyJcfdHuSWGNbw</id>
+        <name>internal_greggd_1850886936</name>
+        <organizationName>internal_greggd_1850886936</organizationName>
+        <pingOneAuthenticationApiEndpoint>https://auth.pingone.com</pingOneAuthenticationApiEndpoint>
+        <pingOneConnectionId>bfef1b3f-bff4-4c48-a0c7-8fb9aa740d46</pingOneConnectionId>
+        <pingOneManagementApiEndpoint>https://api.pingone.com</pingOneManagementApiEndpoint>
+        <region>North America</region>
+    </connections>
+</pingOneConnectionsConfig>

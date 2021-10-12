@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:AdapterConfiguration isInheritExtendedContractAttributes="false" name="com.pingidentity.pf.datastore.other.RestDataSourceDriver" xmlns:urn="urn:sourceid.org:saml2:adapter:conf">
+    <urn:Fields>
+        <urn:Field name="Base URL"/>
+        <urn:Field name="Authentication Method">None</urn:Field>
+        <urn:Field name="Username"/>
+        <urn:Field name="Password"/>
+        <urn:Field name="OAuth Token Endpoint"/>
+        <urn:Field name="OAuth Scope"/>
+        <urn:Field name="Client ID"/>
+        <urn:Field name="Client Secret"/>
+        <urn:Field name="Enable HTTPS Hostname Verification">true</urn:Field>
+        <urn:Field name="Read Timeout (ms)">10000</urn:Field>
+        <urn:Field name="Connection Timeout (ms)">10000</urn:Field>
+        <urn:Field name="Max Payload Size (KB)">1024</urn:Field>
+        <urn:Field name="Retry Request">true</urn:Field>
+        <urn:Field name="Maximum Retries Limit">5</urn:Field>
+        <urn:Field name="Retry Error Codes">429</urn:Field>
+        <urn:Field name="Test Connection URL"/>
+    </urn:Fields>
+    <urn:AdvancedFields>
+        <urn:Field name="Enable HTTPS Hostname Verification">true</urn:Field>
+        <urn:Field name="Read Timeout (ms)">10000</urn:Field>
+        <urn:Field name="Connection Timeout (ms)">10000</urn:Field>
+        <urn:Field name="Max Payload Size (KB)">1024</urn:Field>
+        <urn:Field name="Retry Request">true</urn:Field>
+        <urn:Field name="Maximum Retries Limit">5</urn:Field>
+        <urn:Field name="Retry Error Codes">429</urn:Field>
+        <urn:Field name="Test Connection URL"/>
+    </urn:AdvancedFields>
+    <urn:Tables>
+        <urn:Table name="Base URLs and Tags">
+            <urn:Row defaultRow="true">
+                <urn:Field name="Base URL">https://r2sapis.proxy.beeceptor.com</urn:Field>
+                <urn:Field name="Tags"/>
+            </urn:Row>
+        </urn:Table>
+        <urn:Table name="HTTP Request Headers"/>
+        <urn:Table name="Attributes">
+            <urn:Row defaultRow="false">
+                <urn:Field name="Local Attribute">RonWeekday</urn:Field>
+                <urn:Field name="JSON Response Attribute Path">/weekday</urn:Field>
+            </urn:Row>
+            <urn:Row defaultRow="false">
+                <urn:Field name="Local Attribute">RonScore</urn:Field>
+                <urn:Field name="JSON Response Attribute Path">/riskScore</urn:Field>
+            </urn:Row>
+        </urn:Table>
+    </urn:Tables>
+</urn:AdapterConfiguration>
